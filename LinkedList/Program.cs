@@ -15,7 +15,7 @@ namespace LinkedList
             list.append(70);
             list.append(30);
             list.display();
-            list.popFirstElement();
+            list.popLast();
             list.display();
         }
     }
